@@ -3,6 +3,7 @@
 I'm a **Computer Science** student passionate about **software development** and problem-solving. I'm proficient in **Java** and I enjoy solving programming challenges.
 
 🌱 I’m currently focused on mastering **Data Structures**, **Algorithms**, and enhancing my problem-solving skills. 
+
 💬 Ask me about **Java**, **Web Development**, or any other tech-related topic!  
 📫 Reach me at **chidviganesula12@gmail.com** or connect with me on [LinkedIn](https://www.linkedin.com/in/chidvilasini-g-a33530231/).
 
