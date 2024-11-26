@@ -23,5 +23,5 @@ Feel free to reach out for collaborations, questions, or a tech chat!
 
 ---
 
-## Fun Fact  
+## 💡 Fun Fact  
 In my free time, I’m like a digital organizer—tidying up my code and files, making sure everything is neat and tidy. 📂✨
