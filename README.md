@@ -9,23 +9,11 @@ I'm a **Computer Science** student passionate about **software development** and
 ---
 
 ## 🛠️ Technologies & Tools
-
-- **Languages**:  
-  ![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=flat&logo=java&logoColor=white)  
-  ![Python](https://img.shields.io/badge/Python-%2314354C.svg?style=flat&logo=python&logoColor=white)  
-  ![C](https://img.shields.io/badge/C-%2300599C.svg?style=flat&logo=c&logoColor=white)  
-
-- **Web Development**:  
-  ![HTML](https://img.shields.io/badge/HTML-%23E44D26.svg?style=flat&logo=html5&logoColor=white)  
-  ![CSS](https://img.shields.io/badge/CSS-%231572B6.svg?style=flat&logo=css3&logoColor=white)  
-
-- **Database**:  
-  ![MySQL](https://img.shields.io/badge/MySQL-%2300f.svg?style=flat&logo=mysql&logoColor=white)  
-
-- **Tools**:  
-  ![VS Code](https://img.shields.io/badge/VS%20Code-%23007ACC.svg?style=flat&logo=visual-studio-code&logoColor=white)  
-  ![Git](https://img.shields.io/badge/Git-%23F1502F.svg?style=flat&logo=git&logoColor=white)  
-  ![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=flat&logo=github&logoColor=white)  
+- **Languages**: Java, Python, C  
+- **Web Development**: HTML, CSS  
+- **Database**: MySQL  
+- **Version Control**: Git, GitHub  
+- **Development Tools**: Visual Studio Code, IntelliJ IDEA
 
 ---
 
