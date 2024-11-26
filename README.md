@@ -9,17 +9,23 @@ I'm a **Computer Science** student passionate about **software development** and
 ---
 
 ## 🛠️ Technologies & Tools
-- **Languages**: Java, Python, C  
-- **Web Development**: HTML, CSS  
-- **Database**: MySQL  
-- **Version Control**: Git, GitHub  
-- **Development Tools**: Visual Studio Code, IntelliJ IDEA
 
----
+- **Languages**:  
+  ![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=flat&logo=java&logoColor=white)  
+  ![Python](https://img.shields.io/badge/Python-%2314354C.svg?style=flat&logo=python&logoColor=white)  
+  ![C](https://img.shields.io/badge/C-%2300599C.svg?style=flat&logo=c&logoColor=white)  
 
-## 📈 GitHub Stats
+- **Web Development**:  
+  ![HTML](https://img.shields.io/badge/HTML-%23E44D26.svg?style=flat&logo=html5&logoColor=white)  
+  ![CSS](https://img.shields.io/badge/CSS-%231572B6.svg?style=flat&logo=css3&logoColor=white)  
 
-![Chidviga's GitHub Stats](https://github-readme-stats.vercel.app/api?username=chidviganesula&show_icons=true&count_private=true&hide=prs)
+- **Database**:  
+  ![MySQL](https://img.shields.io/badge/MySQL-%2300f.svg?style=flat&logo=mysql&logoColor=white)  
+
+- **Tools**:  
+  ![VS Code](https://img.shields.io/badge/VS%20Code-%23007ACC.svg?style=flat&logo=visual-studio-code&logoColor=white)  
+  ![Git](https://img.shields.io/badge/Git-%23F1502F.svg?style=flat&logo=git&logoColor=white)  
+  ![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=flat&logo=github&logoColor=white)  
 
 ---
 
