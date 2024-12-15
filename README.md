@@ -10,7 +10,7 @@ I'm a **Computer Science** student passionate about **software development** and
 
 ## 🛠️ Technologies & Tools
 - **Languages**: Java, Python, C  
-- **Web Development**: HTML, CSS  
+- **Web Development**: HTML, CSS, Bootstrap, Javascript
 - **Database**: MySQL  
 - **Version Control**: Git, GitHub  
 - **Development Tools**: Visual Studio Code, IntelliJ IDEA
