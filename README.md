@@ -1,7 +1,7 @@
 # Hi there, I'm Chidvilasini Ganesula 👋
 
 ### 💻 About Me
-I'm a **Software Engineer** with experience in **Java, Spring Boot, React and Java Full Stack Development**.  
+I'm a **Software Engineer** with experience in **Java, Spring Boot, React building Java Full Stack Applications**.  
 I love building projects, learning new technologies, and problem-solving.
 
 ### 🔧 Skills
